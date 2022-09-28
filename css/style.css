@@ -1,0 +1,20 @@
+.navbar{
+    border-bottom: 5px solid #BC3908;
+}
+
+
+header{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.7) , rgba(0,0,0,0.7)) ,url(../images/home.jpg);
+background-size: cover;
+background-position: center;
+
+padding-top: 130px;
+}
+spin{
+color: #BC3908;
+font-weight: bolder;
+}
+i{
+    color: #BC3908;
+}
